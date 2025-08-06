@@ -1,9 +1,9 @@
-# odin-recepies
+# odin-recipes
  A simple project built following Odin Project Curriculum
 ## Project Intentions
-*I'm bulding this simple project to pratice my HTML skills while I follow the Odin Project Curriculum!*
+*I'm building this simple project to practice my HTML skills while I follow the Odin Project Curriculum!*
 ### Skills ###
-*At this time, I'll pratice only very basic HTML tags, like:*
+*At this time, I'll practice only with very basic HTML tags, like:*
 
 - < p> A paragraph tag
 - < a> A hypertext link tag
